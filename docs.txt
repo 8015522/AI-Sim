@@ -1,0 +1,3 @@
+Collision detection: https://github.com/bmoren/p5.collide2D
+Buttons: https://github.com/Lartu/p5.clickable
+STK Files: https://svn.code.sf.net/p/supertuxkart/code/media/trunk/
