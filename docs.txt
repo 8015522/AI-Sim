@@ -1,3 +1,5 @@
+Web: https://developer.mozilla.org/en-US/docs/Web/
+p5: https://p5js.org/reference/
 Collision detection: https://github.com/bmoren/p5.collide2D
 Buttons: https://github.com/Lartu/p5.clickable
-STK Files: https://svn.code.sf.net/p/supertuxkart/code/media/trunk/
+Colors: https://developer.mozilla.org/en-US/docs/Web/CSS/color_value#color_keywords
